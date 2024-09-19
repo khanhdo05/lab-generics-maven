@@ -15,7 +15,7 @@ Authors:
 * Khanh Do
 * Alexander Pollock
 
-The code may be found at <https://github.com/USERNAME/lab-generics-maven>.
+The code may be found at <https://github.com/khanhdo05/lab-generics-maven>.
 
 The original code this is based on can be found at
 <https://github.com/Grinnell-CSC207/lab-generics-maven>.

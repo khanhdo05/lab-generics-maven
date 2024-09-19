@@ -3,7 +3,6 @@ package edu.grinnell.csc207.experiments;
 import edu.grinnell.csc207.util.SearchUtils;
 import edu.grinnell.csc207.util.predicates.OddInteger;
 import edu.grinnell.csc207.util.predicates.SmallObject;
-import edu.grinnell.csc207.util.predicates.SmallString;
 
 import java.io.PrintWriter;
 
